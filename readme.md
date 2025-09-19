@@ -16,7 +16,7 @@ It demonstrates the use of **CSS Grid**, **Flexbox**, and **positioning** to tra
 ```
 | Original Artwork                              | CSS Version                                      |
 | --------------------------------------------- | ------------------------------------------------ |
-| ![Mondrian Original](mondriancomposition.jpg) | ![Mondrian CSS Screenshot](vscodescreenshot.png) |
+| ![Mondrian Original](./images/mondriancomposition.jpg) | ![Mondrian CSS Screenshot](./images/vscodescreenshot.png) |
 ```
 
 ---
