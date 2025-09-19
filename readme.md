@@ -7,7 +7,7 @@ It demonstrates the use of **CSS Grid**, **Flexbox**, and **positioning** to tra
 
 ## 🚀 Live Demo
 
-👉 [View Project on GitHub Pages](halenurgurel.github.io/mondrian-composition/)
+👉 [GitHub Pages Link](https://halenurgurel.github.io/mondrian-composition/)
 
 ---
 
