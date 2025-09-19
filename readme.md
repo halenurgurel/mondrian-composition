@@ -13,11 +13,10 @@ It demonstrates the use of **CSS Grid**, **Flexbox**, and **positioning** to tra
 
 ## 🖼️ Project Preview
 
-
-| Original Artwork                              | CSS Version                                      |
-| --------------------------------------------- | ------------------------------------------------ |
-<<<<<<< HEAD
+| Original Artwork                                       | CSS Version                                               |
+| ------------------------------------------------------ | --------------------------------------------------------- |
 | ![Mondrian Original](./images/mondriancomposition.jpg) | ![Mondrian CSS Screenshot](./images/vscodescreenshot.png) |
+
 ```
 =======
 | ![Mondrian Original](mondriancomposition.jpg) | ![Mondrian CSS Screenshot](vscodescreenshot.png) |
@@ -36,6 +35,7 @@ It demonstrates the use of **CSS Grid**, **Flexbox**, and **positioning** to tra
 ## 📂 Project Structure
 
 ```
+
 mondrian-css/
 │── index.html
 │── css/
@@ -43,6 +43,7 @@ mondrian-css/
 │── images/
 │ ├── mondriancomposition.jpg # reference painting
 │ └── vscodescreenshot.png # CSS output screenshot
+
 ```
 
 ---
@@ -67,12 +68,13 @@ mondrian-css/
 
 ## 🧑‍🎨 Inspiration
 
-This project is based on **Piet Mondrian’s "Composition C, No. III, with Red, Yellow and Blue" (1935)**.  
+This project is based on **Piet Mondrian’s "Composition C, No. III, with Red, Yellow and Blue" (1935)**.
 It reflects the **De Stijl** art movement: simplicity, abstraction, and harmony through primary colors and geometry.
 
 ---
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the [MIT License](LICENSE).
 Artwork reference © by Piet Mondrian (public domain).
+```
