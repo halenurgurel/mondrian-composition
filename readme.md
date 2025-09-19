@@ -13,11 +13,10 @@ It demonstrates the use of **CSS Grid**, **Flexbox**, and **positioning** to tra
 
 ## 🖼️ Project Preview
 
-```
+
 | Original Artwork                              | CSS Version                                      |
 | --------------------------------------------- | ------------------------------------------------ |
 | ![Mondrian Original](mondriancomposition.jpg) | ![Mondrian CSS Screenshot](vscodescreenshot.png) |
-```
 
 ---
 
