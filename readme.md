@@ -13,9 +13,9 @@ It demonstrates the use of **CSS Grid**, **Flexbox**, and **positioning** to tra
 
 ## 🖼️ Project Preview
 
-| Original Artwork                                       | CSS Version                                               |
-| ------------------------------------------------------ | --------------------------------------------------------- |
-| ![Mondrian Original](./images/mondriancomposition.jpg) | ![Mondrian CSS Screenshot](./images/vscodescreenshot.png) |
+| Original Artwork                                       | CSS Version                                  |
+| ------------------------------------------------------ | -------------------------------------------- |
+| ![Mondrian Original](./images/mondriancomposition.jpg) | ![Mondrian CSS Screenshot](./images/css.png) |
 
 ## 🛠️ Built With
 
